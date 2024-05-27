@@ -1,11 +1,11 @@
 # Arch-Hub
 Decentralized Hub for Boundless Innovation
 
-### Smart contract
+### Smart contract repo
 [smart contract repo](https://github.com/come-senusi-wale/arch-hub/)
 
-### UI
-[web user interface](https://github.com/cenwadike/arch-hub-ui)
+### UI repo
+[web user interface repo](https://github.com/cenwadike/arch-hub-ui)
 
 ### Deployment
 UI URL: https://arch-hub-ui.vercel.app/
